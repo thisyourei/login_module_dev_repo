@@ -9,3 +9,6 @@ Proyecto de Aplicacion Web de ASP.NET Core (Modelo-Vista-Controlador)
 Referencias:
 - https://www.c-sharpcorner.com/UploadFile/2b481f/simple-login-form-in-web-api/
 - https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/
+
+Documentos oficiales:
+- https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
