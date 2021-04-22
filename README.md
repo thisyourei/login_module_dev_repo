@@ -17,9 +17,7 @@ Referencias:
 
 - Despliegue de la arquitectura API:
 - ![APIarchitecture](https://user-images.githubusercontent.com/60913697/115781470-6b89ba00-a388-11eb-829b-a35feda85e5a.png)
+- https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
 
 - Despliegue simple API:
 - ![planningpme-api](https://user-images.githubusercontent.com/60913697/115781533-82301100-a388-11eb-9283-d15ce7924a6a.jpg)
-
-Documentos oficiales:
-- https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio (ASP.NET Core 5)
