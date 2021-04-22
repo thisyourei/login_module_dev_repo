@@ -1,7 +1,14 @@
-# Repositorio del módulo de Login para Portafolio
+# Repositorio del módulo de Login para Portafolio de Título
  nombre codigo: login module developer
 
-Creado con Visul Studio Community 2019 y el paquete ASP.NET CORE WEB.
+Bienvenido  ( ͡° ͜ʖ ͡°)
+
+
+Primero, te comento que este proyecto fue creado con Visul Studio Community 2019 y el paquete ASP.NET CORE WEB, que debes seleccionar al momento de instalar VS2019 o ejecutando el Visual Studio Installer  ¯\_( ͡° ͜ʖ ͡°)_/¯
+
+--------------------------------------------------------------------------------------------------------------------------------------
+Algunos detalles:
+
 Proyecto de Aplicacion Web de ASP.NET Core 3.1 (Modelo-Vista-Controlador)
 
 ![image](https://user-images.githubusercontent.com/60913697/115768339-2e1d3080-a378-11eb-881b-fe36267a37cf.png)
