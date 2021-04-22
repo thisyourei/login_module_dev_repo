@@ -4,7 +4,7 @@
 Bienvenido  ( ͡° ͜ʖ ͡°)
 
 
-Primero, te comento que este proyecto fue creado con Visul Studio Community 2019 y el paquete ASP.NET CORE WEB, que debes seleccionar al momento de instalar VS2019 o ejecutando el Visual Studio Installer  ¯\_( ͡° ͜ʖ ͡°)_/¯
+Primero, te comento que este proyecto fue creado con Visul Studio Community 2019 y el paquete ASP.NET CORE WEB, que debes seleccionar al momento de instalar VS2019 o ejecutando el Visual Studio Installer  ¯\\_( ͡° ͜ʖ ͡°)_/¯
 
 --------------------------------------------------------------------------------------------------------------------------------------
 Algunos detalles:
