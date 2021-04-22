@@ -1,5 +1,5 @@
-# login_module_dev_repo
- repositorio login module developer
+# Repositorio del módulo de Login para Portafolio
+ nombre codigo: login module developer
 
 Creado con Visul Studio Community 2019 y el paquete ASP.NET CORE WEB.
 Proyecto de Aplicacion Web de ASP.NET Core 3.1 (Modelo-Vista-Controlador)
